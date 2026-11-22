@@ -1,0 +1,13 @@
+# コンパイル済みファイル
+bin/
+*.class
+
+# Eclipseの設定ファイル（個人環境依存）
+.metadata/
+.settings/
+.project
+.classpath
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
